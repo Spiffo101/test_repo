@@ -1,0 +1,16 @@
+C:\Users\Spiffo\chacha\bin\Debug\net5.0\chacha.exe
+C:\Users\Spiffo\chacha\bin\Debug\net5.0\chacha.deps.json
+C:\Users\Spiffo\chacha\bin\Debug\net5.0\chacha.runtimeconfig.json
+C:\Users\Spiffo\chacha\bin\Debug\net5.0\chacha.runtimeconfig.dev.json
+C:\Users\Spiffo\chacha\bin\Debug\net5.0\chacha.dll
+C:\Users\Spiffo\chacha\bin\Debug\net5.0\ref\chacha.dll
+C:\Users\Spiffo\chacha\bin\Debug\net5.0\chacha.pdb
+C:\Users\Spiffo\chacha\obj\Debug\net5.0\chacha.csprojAssemblyReference.cache
+C:\Users\Spiffo\chacha\obj\Debug\net5.0\chacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spiffo\chacha\obj\Debug\net5.0\chacha.AssemblyInfoInputs.cache
+C:\Users\Spiffo\chacha\obj\Debug\net5.0\chacha.AssemblyInfo.cs
+C:\Users\Spiffo\chacha\obj\Debug\net5.0\chacha.csproj.CoreCompileInputs.cache
+C:\Users\Spiffo\chacha\obj\Debug\net5.0\chacha.dll
+C:\Users\Spiffo\chacha\obj\Debug\net5.0\ref\chacha.dll
+C:\Users\Spiffo\chacha\obj\Debug\net5.0\chacha.pdb
+C:\Users\Spiffo\chacha\obj\Debug\net5.0\chacha.genruntimeconfig.cache

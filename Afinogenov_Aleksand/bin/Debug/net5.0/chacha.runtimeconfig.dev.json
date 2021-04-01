@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Spiffo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Spiffo\\.nuget\\packages"
+    ]
+  }
+}
